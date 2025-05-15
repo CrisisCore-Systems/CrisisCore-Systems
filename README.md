@@ -1,89 +1,82 @@
-```
-       ___        __         ___   ___        ___   ___        ___                    __         ___  ___   ___  ___   ___   ___   ___  ___  ___   ___        ___               ___   ___ 
-  .'|=|_.'   .'|=|  |   .'| |   |=|_.'   .'| |   |=|_.'   .'|=|_.'   .'|=|`.     .'|=|  |   .'|=|_.' |   |=|_.' |   | |   | |   |=|_.' `._|=|   |=|_.'   .'|=|_.'   .'|\/|`.   |   |=|_.' 
-.'  |      .'  | |  | .'  | `.  |      .'  | `.  |      .'  |      .'  | |  `. .'  | |  | .'  |  ___ `.  |      `.  |_|  .' `.  |           |   |      .'  |  ___ .'  |  |  `. `.  |      
-|   |      |   |=|.'  |   |   `.|=|`.  |   |   `.|=|`.  |   |      |   | |   | |   |=|.'  |   |=|_.'   `.|=|`.    `.   .'     `.|=|`.       |   |      |   |=|_.' |   |  |   |   `.|=|`.  
-`.  |  ___ |   |  |`. |   |  ___  |  `.|   |  ___  |  `.`.  |  ___ `.  | |  .' |   |  |`. |   |  ___  ___  |  `.   |   |     ___  |  `.     `.  |      |   |  ___ |   |  |   |  ___  |  `.
-  `.|=|_.' |___|  |_| |___|  `._|=|___||___|  `._|=|___|  `.|=|_.'   `.|=|.'   |___|  |_| |___|=|_.'  `._|=|___|   |___|     `._|=|___|       `.|      |___|=|_.' |___|  |___|  `._|=|___| 
-```
+# ⚡ CrisisCore-Auditor
 
-# 🚀 **CrisisCore-Systems**  
-![Custom Badge](https://img.shields.io/badge/Security-First-red?style=flat-square&logo=databricks) ![Custom Badge](https://img.shields.io/badge/AI-Automation-blue?style=flat-square&logo=python) ![Custom Badge](https://img.shields.io/badge/Open--Source-Powered-green?style=flat-square&logo=github)
+*Collapse Architect | System Breacher | Recursive Vulnerability Mythmaker*
 
-**Kelowna, BC, Canada**  |  🌐 [ORCID Profile](https://orcid.org/0009-0003-3251-8621)
+> “I don’t audit protocols. I expose how they die.”
 
 ---
 
-## ⚡ **About Me**
-I am **CrisisCore-Systems**, a developer, security researcher, and automation engineer specializing in:
-- 🛡️ **Cybersecurity & Ethical Hacking** – Offensive security, penetration testing, and digital forensics.
-- 🧠 **AI & Neural Network Systems** – Cognitive computing, deep learning, and automation.
-- ⚙️ **Automation & Web Scraping** – High-performance scripting and intelligent data extraction.
-- 🌍 **Open-Source Development** – Community-driven, modular, and scalable solutions.
+## 🧠 Collapse Intelligence Doctrine
 
-🚀 **Mission:** Building next-generation, security-first, AI-powered automation tools to redefine efficiency and cybersecurity.
+I analyze systems as if they are organisms — not lines of code, but breathing architectures with oracles as pulse, liquidity as blood, and upgrades as neurological trauma. My work targets **recursive entropy**, **temporal desync**, **arithmetic decay**, and **permission residue**.
 
----
+I don’t find bugs. I reveal **collapse vectors** — points of inevitable failure across protocol time, yield recursion, and state drift.
 
-## 🔥 **Signature Projects**
-```
-🚀 Cutting-Edge Projects
-```
-| 🏆 **Project**                 | 📌 **What It Does**                                  | 🚀 **Tech Stack**             |
-|--------------------------------|--------------------------------------------------|-----------------------------|
-| 🔄 [SurveyBot-NoSelenium](#)    | Automates surveys using HTTP requests            | Python, BeautifulSoup      |
-| 🧠 [Neural Entrainment System](#)| AI-driven signal processing for cognitive boost  | Python, TensorFlow, NumPy  |
-| 📄 [CompressKit](#)             | Ultra-efficient PDF compression for Termux       | Shell, Python, FFmpeg      |
-| 🚗 [Autotrader](#)              | Automated search & alerts for vehicle deals      | Python, Web Scraping       |
-| 🔍 [OSINT-Framework](#)         | Advanced open-source intelligence toolkit        | Python, Scrapy, OpenCV     |
+### Primary Threat Classes
+
+* 🧠 **Temporal Desynchronization** — Epoch drift, oracle lag, delayed reward syncs
+* 🔁 **Recursive Feedback Amplification** — Vault wrapping, compounding derivatives
+* 🧼 **Permission Residue & Ghost States** — Proxy upgrades, storage slot hauntings
+* 🧮 **Arithmetic Fragility** — Precision collapse, rounding drift, delta loops
+* 📉 **Vault Share Divergence** — Donation-based manipulation, slippage floor gaps
 
 ---
 
-## 🎯 **Core Principles**
-🛠 **Tactical Efficiency** – Code should be lightweight, modular, and optimized.
+## 🕵️ Active Exploit Programs
 
-🔐 **Security-First Mindset** – Encryption, anonymity, and penetration testing baked into every project.
+* 🪐 [Cantina](https://cantina.xyz) — 31+ Confirmed Vectors (Alchemix, Aquarius)
 
-🌍 **Open-Source Excellence** – Collaboration, transparency, and community-driven improvements.
-
-🤖 **AI-Powered Automation** – Intelligent scripting, predictive models, and reinforcement learning integration.
+🧬 Operates under: **CrisisCore-Systems** pseudonym
 
 ---
 
-## 📡 **Connect & Collaborate**
-- 💻 [GitHub](https://github.com/CrisisCore-Systems)
-- 🌐 [ORCID Profile](https://orcid.org/0009-0003-3251-8621)
-- 📧 *Contact available upon request*
+## 🧬 Highlighted Collapse Vectors
+
+| ID      | Collapse Vector Title                              | Class                    |
+| ------- | -------------------------------------------------- | ------------------------ |
+| CV-1200 | Self-Reinforcing Liquidation via Oracle Resonance  | Economic Feedback Spiral |
+| CV-1198 | Admin Ghosting via Upgrade-Cycle Bifurcation       | Meta-Permission Residue  |
+| CV-1173 | Recursive Yield Extraction via Vault Nesting       | Infinite Yield Loop      |
+| CV-1186 | Share Price Drift via Donation Momentum            | Time-Desync Exploit      |
+| CV-128  | Temporal Fragmentation in AMM Epochs               | Oracle Drift Vector      |
+| CV-127  | Numerical Precision Cascade Failure                | Arithmetic Collapse      |
+| CV-126  | Residual Dust & Fee Drain in Long-Term Pool States | Micro-Extraction Risk    |
+
+🔗 Full archive: [`CollapseVectors`](https://github.com/CrisisCore-Systems/CollapseVectors)
 
 ---
 
-## 🖥️ **Tech Stack & Expertise**
-- 🐍 **Python** – AI, Security, Web Scraping, OSINT
-- 🛠️ **Shell Scripting** – Termux, Linux Optimization, Network Automation
-- ⚡ **AI/ML** – TensorFlow, OpenAI APIs, Deep Learning Models
-- 🔒 **Cybersecurity** – Red Teaming, Digital Forensics, Privacy Tools
-- 📂 **Data Engineering** – Pandas, SQL, Large-Scale Web Scraping
+## 📚 Obsidian Systems & Codex Interfaces
+
+* 🔮 [Published Collapse Codex](https://publish.obsidian.md/yourvault)
+* 🧩 [Collapse Vector Template](https://github.com/YourUsername/CollapseVectors/blob/main/templates/collapse-vector-template.md)
+
+**Core Stack:**
+
+* Solidity, Vyper, Foundry
+* Obsidian, Mermaid, Git, VSCode
+* Recursive loop modeling, TWAP sync tracing, proxy haunt logic
 
 ---
 
-## 📊 **GitHub Analytics**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CrisisCore-Systems&show_icons=true&theme=radical&hide_border=true)
+## 🧪 Active Research
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisisCore-Systems&layout=compact&theme=radical&hide_border=true)
-
----
-
-## 🏆 **Innovations & Breakthroughs**
-🚀 **Built No-Selenium SurveyBot** – HTTP-based survey automation with stealth evasion techniques.  
-🛡️ **Developed Neural Entrainment System** – AI-driven cognitive signal processing for peak human performance.  
-📄 **Optimized CompressKit** – Achieves extreme PDF compression while preserving quality.  
-🔍 **Created OSINT-Framework** – Modular open-source intelligence tool for cyber investigations.  
-🌐 **Advanced AI-Powered Automation** – Implementing reinforcement learning for dynamic task optimization.  
+* Launching: **Recursive Threat Extraction Engine**
+* Publishing: **Collapse Ontology Whitepaper**
+* Refining: **Fractality Index** for exploit classification
+* Drafting: **MythOS — The Metaphysical Security Layer**
 
 ---
 
-## 🧠 **Guiding Philosophy**
-_"Perfection is not when there is nothing more to add, but when there is nothing left to take away."_ – Antoine de Saint-Exupéry
+## 🧱 Glyph Protocol
 
-💡 **Building the future of cybersecurity, AI, and automation—one script at a time.** 🚀
+| Glyph | Meaning                 |
+| ----- | ----------------------- |
+| G-∞   | Recursive Amplification |
+| G-φ   | Structural Collapse     |
+| G-μ   | Arithmetic Drift        |
+| G-Δ   | Temporal Desync         |
 
+Signature Tag → `// @crisiscore-vuln`
+
+> “Your system isn’t code. It’s a living economic machine. I trace where it begins to rot.”
