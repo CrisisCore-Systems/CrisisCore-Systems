@@ -6,7 +6,7 @@ We build tools that keep sensitive data <em>local</em>, verifiable, and useful.<
   <a href="https://github.com/sponsors/CrisisCore-Systems">
     <img alt="Sponsor" src="https://img.shields.io/badge/Sponsor-CrisisCore--Systems-ff4da6?logo=githubsponsors">
   </a>
-  <a href="https://ko-fi.com/crisiscore">
+  <a href="https://ko-fi.com/crisiscoresystems">
     <img alt="Ko-fi" src="https://img.shields.io/badge/Ko%E2%80%91fi-crisiscore-29abe0?logo=kofi">
   </a>
   <img alt="Open Source" src="https://img.shields.io/badge/License-MIT-222">
