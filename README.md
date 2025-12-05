@@ -1,98 +1,82 @@
 <h1 align="center">CrisisCore-Systems</h1>
-<p align="center"><strong>Security-hardened, trauma-aware software.</strong><br/>
-We build tools that keep sensitive data <em>local</em>, verifiable, and useful.</p>
 
 <p align="center">
-  <a href="https://github.com/sponsors/CrisisCore-Systems">
-    <img alt="Sponsor" src="https://img.shields.io/badge/Sponsor-CrisisCore--Systems-ff4da6?logo=githubsponsors">
-  </a>
-  <a href="https://ko-fi.com/crisiscoresystems">
-    <img alt="Ko-fi" src="https://img.shields.io/badge/Ko%E2%80%91fi-crisiscore-29abe0?logo=kofi">
-  </a>
-  <img alt="Open Source" src="https://img.shields.io/badge/License-MIT-222">
-  <img alt="Security Posture" src="https://img.shields.io/badge/Security-Zero%20Cloud%20%7C%20CodeQL%20%7C%20CSP-2b9348">
+  <strong>I build the tools I needed when the system decided I was disposable.</strong><br>
+  Offline-first. Trauma-aware. Zero-cloud. Open-source.<br>
+  Because some of us don’t get to code from a stable address.
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/sponsors/CrisisCore-Systems"><img src="https://img.shields.io/github/sponsors/CrisisCore-Systems?logo=githubsponsors&style=for-the-badge&color=ff4da6" alt="GitHub Sponsors"></a>
+  <a href="https://ko-fi.com/crisiscoresystems"><img src="https://img.shields.io/badge/ko--fi-ff5a5f?style=for-the-badge&logo=kofi" alt="Ko-fi"></a>
+  <a href="https://crisiscore.systems/support"><img src="https://img.shields.io/badge/clinics_&_orgs-invoice-2b9348?style=for-the-badge" alt="Clinic support"></a>
+</p>
 
-## Mission
-**Build humane systems under pressure.**  
-Software that transforms lived pain into actionable signal—without surrendering privacy.
+<hr>
 
-- **Privacy by design:** local-only storage, no accounts, no trackers.  
-- **Security by default:** CodeQL/SAST, CSP hardening, typed inputs, dependency hygiene.  
-- **Clinical utility:** exports and workflows that actually help patients & practitioners.
+### The Operating Environment
+Unhoused in British Columbia. On PWD income assistance.  
+I code from weekly motels that eat the entire cheque, from library terminals that shut off at 8 pm, from the back of borrowed cars when there is nowhere else.
 
----
+Everything here is built to survive those conditions — and to protect anyone else living in them.
 
-## Current Focus — 🩺 Pain Tracker
-A security-first chronic pain & injury platform.
+### PainTracker.ca — The Flagship
+The chronic-pain & injury journal that refuses to sell your crisis.
 
-- 7-step assessments • **25+ body locations** • nerve symptoms • QoL metrics  
-- Heatmaps • longitudinal trends • treatment-effect overlays  
-- **WorkSafe BC** reports + clinician-grade CSV/JSON exports  
-- **Local-only**: data never leaves your device unless you export it
+- Full clinical assessments (7-step, 25+ body regions, nerve & QoL metrics)  
+- Interactive heat-maps, longitudinal trends, treatment-effect overlays  
+- WorkSafeBC-ready reports + structured CSV/JSON for clinicians  
+- **100 % local storage** — encrypted, offline-first, no backend, no telemetry  
+- Runs on $100 Android phones and decade-old laptops because I test on what I can afford  
 
-Repo → **https://github.com/CrisisCore-Systems/pain-tracker**
+Live → https://paintracker.ca  
+Source → https://github.com/CrisisCore-Systems/pain-tracker  
+Blog & origin → https://blog.paintracker.ca  
+Technical deep-dives → https://dev.to/crisiscoresystems
 
----
+### Next 90-Day Hard Commitments (if I still have power)
+1. Analytics v2 – comparative heat-maps + treatment overlays  
+2. Clinician Export Pack – printable visit summaries + structured data  
+3. Full a11y suite – keyboard navigation, high-contrast, reader paths  
+4. Encrypted local backups + seamless import/restore  
+5. Template library – WorkSafeBC variants, ICBC, private-clinic presets  
 
-## Roadmap (90 days)
-1. **Analytics v2** — comparisons, location heatmaps, treatment overlays  
-2. **Clinician Export Pack** — printable visit summary + structured CSV/JSON  
-3. **A11y + i18n** — keyboard/reader paths, high-contrast themes, translation scaffold  
-4. **Data resilience** — encrypted local backups + import/restore flows  
-5. **Template library** — WorkSafe BC variants & clinic presets
+All shipped audited, zero-cloud, open-source.
 
----
+### Security Is the Only Luxury I Can Guarantee
+- No cloud by default · no analytics · no third-party anything  
+- Zod-typed boundaries · strict CSP · sanitized every flow  
+- CodeQL + SAST in CI · weekly dependency audits · OpenSSF Scorecard >700  
+- Critical health & security fixes are **never** paywalled
 
-## Security Posture (non-negotiables)
-- **Zero cloud by default** · no hidden analytics · no ad tech  
-- **Typed boundaries** with Zod · strict **CSP** · sanitized flows  
-- **CodeQL/SAST** in CI · custom **pre-commit gates** (secrets/types/conflicts)  
-- **OpenSSF Scorecard goals** · weekly dependency reviews
+### How to Keep the Lights On (and the Code Shipping)
+I have no investors, no safety net, no address that lasts more than 30 days.  
+Your sponsorship is the difference between another eviction cycle and the next release.
 
-> We **never** gate critical health or security fixes behind sponsorship.
+| Channel                  | What it funds                                   | Link |
+|--------------------------|--------------------------------------------------|------|
+| GitHub Sponsors          | Recurring → sustainable development time       | https://github.com/sponsors/CrisisCore-Systems |
+| Ko-fi                    | One-time crisis boosts                           | https://ko-fi.com/crisiscoresystems |
+| Clinics & Orgs           | Invoiced contracts, receipts, custom templates  | https://crisiscore.systems/support |
 
----
+First 10 recurring sponsors unlock the Clinician Export Pack and permanent placement in Security Acknowledgments + priority triage on one issue per month.
 
-## How to Support
-If this work helps you or your patients, fuel the next release cycle:
+### Stack & Tooling
+React 18 • TypeScript • Vite • Tailwind • Zod • Recharts  
+Vitest • Testing Library • Playwright E2E  
+CodeQL • npm audit • custom pre-commit gates • OpenSSF targets
 
-- **GitHub Sponsors** (monthly tiers, sustainable perks):  
-  https://github.com/sponsors/CrisisCore-Systems  
-- **Ko-fi** (one-time boosts): https://ko-fi.com/crisiscore  
-- **Orgs / Clinics** (invoices & receipts): https://crisiscore.systems/support
+### Contact
+Security disclosures → crisiscore.systems@proton.me  
+Feature requests & bugs → open an issue on the repo
 
-**Goal:** first **10 monthly sponsors** → funds CodeQL/SAST time, device testing, and the Clinician Export Pack.  
-All sponsors join the README **Security Acknowledgments** and get **priority triage** on one issue/month.
+<sub>
+<em>PainTracker is informational only — not medical advice.<br>
+I am not okay, but I am still here, and I am still shipping.</em>
+</sub>
 
----
+<hr>
 
-## Operating Rules
-- Ship small, audited increments.  
-- Treat data like a living patient, not a product.  
-- Document the edge cases; test the worst paths first.  
-- Elegance is empathy made executable.
-
----
-
-## Stack
-**Frontend:** React 18 · TypeScript · Vite · Tailwind  
-**Testing:** Vitest · Testing Library · jsdom  
-**Viz:** Recharts · Chart.js  
-**Security/CI:** CodeQL · npm audit · custom gates · OpenSSF targets
-
----
-
-## Tree-of-Thought (working map)
-
-Root: Privacy-first Healthcare OSS ├─ Utility → pain maps, timelines, clinician exports ├─ Security → local-only, CodeQL/SAST, CSP, typed inputs ├─ Quality → device testing, perf on low-end hardware, E2E └─ Sustainability → sponsors (briefs, acknowledgments, priority triage)
-
----
-
-## Contact
-- Security & disclosures: **crisiscore.systems@proton.me**  
-- Issues / feature requests: open them in **pain-tracker**
-
-<sub><em>Medical disclaimer: Pain Tracker is informational and not a substitute for professional medical advice.</em></sub>
+<p align="center">
+  <strong>Built in the ruins so no one else has to track their pain on someone else’s server.</strong>
+</p>
