@@ -1,73 +1,92 @@
 # CrisisCore Systems
 
-> Developing **Protective Computing** — safety-critical, vulnerability-aware software architecture.
+> Developing Protective Computing — an engineering discipline for safety-critical, vulnerability-aware software.
 
-CrisisCore Systems is the home of work on Protective Computing: systems designed to remain safe and useful under instability (crisis, displacement, illness, coercion, cognitive stress), prioritizing containment, reversibility, and minimal exposure.
-
----
-
-## Canonical outputs
-
-### The Overton Framework (Canon v1.3)
-
-- DOI (Zenodo): https://doi.org/10.5281/zenodo.18688516
-- PDF (Canon): https://zenodo.org/records/18688516/files/overton-framework-protective-computing-v1.3.pdf
-- Source (GitHub): https://github.com/CrisisCore-Systems/overton-framework/tree/main/canon
-
-Cite (APA):
-
-> Overton, K. (2026). *The Overton Framework: Protective Computing in Conditions of Human Vulnerability* (1.3). Zenodo. https://doi.org/10.5281/zenodo.18688516
-
-### Implementation & Evidence Companion (v0.2)
-
-- PDF (Zenodo): https://zenodo.org/records/18688516/files/overton-framework-protective-computing-companion-v0.2.pdf
-- Source (GitHub): https://github.com/CrisisCore-Systems/overton-framework/tree/main/companion
+CrisisCore Systems is the home of work on the
+**Overton Framework** and related systems,
+focused on designing software that remains safe,
+meaningful, and reversible under real-world
+conditions of instability, crisis, and human vulnerability.
 
 ---
 
-## Reference implementation
+## 🧠 Canonical Framework
 
-### PainTracker
+### 📄 The Overton Framework (Protective Computing)
+A formal architecture and theory proposing
+Protective Computing as a discipline.
 
-Privacy-first, offline-capable pain documentation and clinician export tooling, built as a reference implementation of Protective Computing.
+🔗 Zenodo preprint (DOI): https://doi.org/10.5281/zenodo.18688516  
+*Overton, K. (2026). The Overton Framework: Protective Computing in Conditions of Human Vulnerability (v1.3).*
 
-- Live: https://paintracker.ca
-- Source: https://github.com/CrisisCore-Systems/pain-tracker
-
----
-
-## Protective principles (snapshot)
-
-- **Radical Reversibility** — prevent irreversible loss during vulnerability states.
-- **Minimum Necessary Exposure** — client-side encryption by default; minimize metadata; treat remote infrastructure as compellable.
-- **Failure Containment** — preserve essential utility offline; local-first authority.
-- **Cognitive Load Preservation** — deterministic crisis UX; reduced complexity; suppress non-critical prompts.
-- **Asymmetric Power Defense** — mitigate coercion/surveillance/lock-in (duress modes, offline export, plausible deniability).
+Published and under review at ACM Journal on Responsible Computing.
 
 ---
 
-## Active projects
+## 🛠 Reference Implementation
+
+### 🩹 PainTracker
+
+A privacy-first,
+offline-capable application implementing principles
+from Protective Computing.
+
+🔗 https://github.com/CrisisCore-Systems/PainTracker
+
+---
+
+## 📊 Operational Evidence Companion
+
+### 🧩 Implementation Companion (v0.2)
+
+Measurement constructs for the Protective Legitimacy Score (PLS),
+and companion documentation for empirical evaluation.
+
+🔗 https://zenodo.org/record/18688516/files/overton-framework-protective-computing-companion-v0.2.pdf
+
+---
+
+## 🚀 Projects & Contribution
 
 | Project | Purpose | Status |
-|---|---|---|
-| https://github.com/CrisisCore-Systems/overton-framework | Canon + Companion (scope-locked spec + fast-moving operational guidance) | Active |
-| https://github.com/CrisisCore-Systems/pain-tracker | Reference implementation (offline-first, encrypted, user-controlled export) | Active |
+|---------|---------|--------|
+| **PainTracker** | Reference example implementation | 🟢 Active |
+| **Protective Controls Checklist** | Engineering checklist | ⚙️ In progress |
+| **PLS Measurement Suite** | Metrics & quantification | 📊 In planning |
+
+Contributions are welcome. Please open issues or PRs
+aligned with Protective Computing principles and
+reference the overall framework.
 
 ---
 
-## Connect
+## 🧭 Positioning
 
-- ORCID: https://orcid.org/0009-0003-3251-8621
-- Dev.to: https://dev.to/crisiscoresystems
-- Security contact: mailto:crisiscore.systems@proton.me
+Protective Computing applies when:
+
+- Connectivity cannot be assumed  
+- Users are under stress or crisis  
+- Safety and autonomy matter  
+- Exposure must be minimized
+
+It prioritizes:
+✔ Local authority  
+✔ Minimal unnecessary exposure  
+✔ Reversibility  
+✔ Cognitive load preservation  
+✔ Coercion resistance
 
 ---
 
-## Contributing
+## 📫 Connect & Cite
 
-Issues and pull requests are welcome. Please keep contributions aligned with the Canon’s principles (reversibility, containment, minimum exposure, crisis usability).
+- **ORCID:** https://orcid.org/0009-0003-3251-8621  
+- **Zenodo DOI:** https://doi.org/10.5281/zenodo.18688516  
+- **ACM Submission ID:** JRC-2026-0016
 
-## License
+---
 
-- Overton Framework (Zenodo preprint): CC BY 4.0 (see the Zenodo record)
-- PainTracker: MIT (see the repo LICENSE)
+## 📝 Licensing
+
+- Framework documentation: **CC-BY-4.0**
+- Code: **MIT / permissive**
