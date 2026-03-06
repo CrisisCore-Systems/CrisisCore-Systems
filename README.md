@@ -1,92 +1,91 @@
-# CrisisCore Systems
+# CrisisCore-Systems
 
-> Developing Protective Computing — an engineering discipline for safety-critical, vulnerability-aware software.
+[![Canon DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18887610-blue)](https://doi.org/10.5281/zenodo.18887610)
+[![Overton DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18688516-blue)](https://doi.org/10.5281/zenodo.18688516)
+[![Field Guide DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18782339-blue)](https://doi.org/10.5281/zenodo.18782339)
+[![PLS DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18783432-blue)](https://doi.org/10.5281/zenodo.18783432)
 
-CrisisCore Systems is the home of work on the
-**Overton Framework** and related systems,
-focused on designing software that remains safe,
-meaningful, and reversible under real-world
-conditions of instability, crisis, and human vulnerability.
+> Building **Protective Computing** — software engineered to remain safe, usable, and ethically constrained when stability fails.
 
----
-
-## 🧠 Canonical Framework
-
-### 📄 The Overton Framework (Protective Computing)
-A formal architecture and theory proposing
-Protective Computing as a discipline.
-
-🔗 Zenodo preprint (DOI): https://doi.org/10.5281/zenodo.18688516  
-*Overton, K. (2026). The Overton Framework: Protective Computing in Conditions of Human Vulnerability (v1.3).*
-
-Published and under review at ACM Journal on Responsible Computing.
+CrisisCore-Systems is a research + engineering lab for **vulnerability-aware systems design**: local-first authority, exposure minimization, reversibility, cognitive resilience, and infrastructure independence — expressed as specifications, audits, and reference implementations.
 
 ---
 
-## 🛠 Reference Implementation
-
-### 🩹 PainTracker
-
-A privacy-first,
-offline-capable application implementing principles
-from Protective Computing.
-
-🔗 https://github.com/CrisisCore-Systems/PainTracker
+## Start here
+- Site: https://protective-computing.github.io/
+- Zenodo corpus: https://zenodo.org/communities/protective-computing
 
 ---
 
-## 📊 Operational Evidence Companion
+## Canonical discipline paper (root)
+**Protective Computing Canon v1.0 — A Structural Map of the Discipline**  
+DOI: https://doi.org/10.5281/zenodo.18887610
 
-### 🧩 Implementation Companion (v0.2)
-
-Measurement constructs for the Protective Legitimacy Score (PLS),
-and companion documentation for empirical evaluation.
-
-🔗 https://zenodo.org/record/18688516/files/overton-framework-protective-computing-companion-v0.2.pdf
+Use this DOI when citing the **discipline architecture** (theory → engineering → evaluation → reference systems).
 
 ---
 
-## 🚀 Projects & Contribution
+## Core corpus (layer documents)
 
-| Project | Purpose | Status |
-|---------|---------|--------|
-| **PainTracker** | Reference example implementation | 🟢 Active |
-| **Protective Controls Checklist** | Engineering checklist | ⚙️ In progress |
-| **PLS Measurement Suite** | Metrics & quantification | 📊 In planning |
+| Layer | Artifact | DOI / Link |
+|------:|---------|------------|
+| 1 | **The Overton Framework v1.3** (theory) | https://doi.org/10.5281/zenodo.18688516 |
+| 2 | **Protective Computing Field Guide v0.1** (engineering) | https://doi.org/10.5281/zenodo.18782339 |
+| 3 | **Protective Legitimacy Score (PLS) v1.0-rc1** (evaluation) | https://doi.org/10.5281/zenodo.18783432 |
+| 4 | **PainTracker** (reference implementation) | https://github.com/CrisisCore-Systems/pain-tracker |
 
-Contributions are welcome. Please open issues or PRs
-aligned with Protective Computing principles and
-reference the overall framework.
-
----
-
-## 🧭 Positioning
-
-Protective Computing applies when:
-
-- Connectivity cannot be assumed  
-- Users are under stress or crisis  
-- Safety and autonomy matter  
-- Exposure must be minimized
-
-It prioritizes:
-✔ Local authority  
-✔ Minimal unnecessary exposure  
-✔ Reversibility  
-✔ Cognitive load preservation  
-✔ Coercion resistance
+**Rule:** Cite the **Canon DOI** for the discipline as a whole; cite the **layer DOI** for a specific artifact.
 
 ---
 
-## 📫 Connect & Cite
-
-- **ORCID:** https://orcid.org/0009-0003-3251-8621  
-- **Zenodo DOI:** https://doi.org/10.5281/zenodo.18688516  
-- **ACM Submission ID:** JRC-2026-0016
+## Reference implementation
+### PainTracker
+Local-first, privacy-first, offline-capable chronic pain journaling — built as a Protective Computing reference system.  
+Repo: https://github.com/CrisisCore-Systems/pain-tracker
 
 ---
 
-## 📝 Licensing
+## Protective Computing (one screen)
+Protective Computing applies when connectivity, cognition, safety, or institutional trust **cannot** be assumed.
 
-- Framework documentation: **CC-BY-4.0**
-- Code: **MIT / permissive**
+Core priorities:
+- **Local Authority** — user-owned control and data access
+- **Exposure Minimization** — reduced telemetry + metadata leakage
+- **Reversibility** — undo/rollback for critical actions
+- **Cognitive Resilience** — operable under stress and reduced attention
+- **Infrastructure Independence** — safe degradation when networks fail
+
+---
+
+## Conformance & evaluation
+Evaluate systems against Protective Computing requirements using PLS:  
+**PLS rubric (v1.0-rc1):** https://doi.org/10.5281/zenodo.18783432  
+(scored, auditable, anti-gaming, hard-fail guards)
+
+---
+
+## Contribute
+Contributions are welcome if they strengthen protective outcomes.
+
+Preferred changes improve:
+- offline continuity
+- reversibility
+- exposure minimization
+- usability under cognitive load
+
+Issues/PRs: https://github.com/CrisisCore-Systems/pain-tracker/issues
+
+---
+
+## Cite this work
+**Canon:** Overton, K. (2026). *Protective Computing Canon v1.0: A Structural Map of the Discipline.* Protective Computing Community. https://doi.org/10.5281/zenodo.18887610  
+**Theory:** Overton, K. (2026). *The Overton Framework: Protective Computing in Conditions of Human Vulnerability (v1.3).* Zenodo. https://doi.org/10.5281/zenodo.18688516
+
+---
+
+## Identity
+- ORCID: https://orcid.org/0009-0003-3251-8621
+
+## Licensing
+- Docs: **CC-BY-4.0**
+- Code: project-dependent (**MIT / permissive**)
