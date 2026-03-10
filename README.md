@@ -7,6 +7,8 @@
 
 > **Protective Computing — systems design under human vulnerability.**
 
+Canonical archive for the Protective Computing Zenodo corpus, specifications, and reference implementations.
+
 CrisisCore-Systems is the engineering and publication surface for **Protective Computing**: software designed to remain safe, usable, and ethically constrained under crisis, illness, coercion, displacement, degraded infrastructure, and institutional instability.
 
 We publish:
@@ -14,7 +16,7 @@ We publish:
 - engineering doctrine
 - normative specifications
 - evaluation tooling
-- and reference implementations
+- reference implementations
 
 ---
 
@@ -30,31 +32,37 @@ We publish:
 ## Published release stack
 
 ### Canonical Paper
+
 **Protective Computing Canon v1.0**  
 The structural overview of the discipline across theory, engineering practice, evaluation, and reference implementation.  
 **DOI:** https://doi.org/10.5281/zenodo.18887610
 
 ### Foundation
+
 **The Overton Framework v1.3**  
 Formal theory and architectural framing for software built under conditions of human vulnerability.  
 **DOI:** https://doi.org/10.5281/zenodo.18688516
 
 ### Practice
+
 **Protective Computing Field Guide v0.1**  
-Operational guidance for engineers implementing protective systems in real environments.  
+Operational companion for engineers implementing protective systems in real environments.  
 **DOI:** https://doi.org/10.5281/zenodo.18782339
 
 ### Specification
+
 **Protective Computing Specification v1.0**  
-Normative requirements with verification procedures for design review, implementation, and audit.  
+Normative requirements with verification procedures for implementation, design review, and audit.  
 **Spec:** https://protective-computing.github.io/docs/spec/v1.0.html
 
 ### Tooling
+
 **Protective Legitimacy Score (PLS) v1.0-rc1**  
 Operational rubric for evaluating whether systems remain structurally protective under degraded conditions.  
 **DOI:** https://doi.org/10.5281/zenodo.18783432
 
 ### Reference Implementation
+
 **PainTracker**  
 A privacy-first, local-first, offline-capable chronic pain documentation system used as a live Protective Computing reference implementation.  
 **Repo:** https://github.com/CrisisCore-Systems/pain-tracker
@@ -81,6 +89,7 @@ These are engineering constraints, not branding language.
 Most software assumes persistent connectivity, cognitive surplus, environmental stability, and institutional trust.
 
 Protective Computing starts from the opposite condition:
+
 - crisis
 - illness
 - pain
@@ -88,11 +97,11 @@ Protective Computing starts from the opposite condition:
 - displacement
 - infrastructure instability
 
-When those conditions are present, software failure is not a small inconvenience. It can become disclosure, lockout, pressure, or irreversible harm.
+When those conditions are present, software failure is not a minor inconvenience. It can become disclosure, lockout, pressure, or irreversible harm.
 
 ---
 
-## Evidence and audit surface
+## Audit and verification surface
 
 Protective Computing includes a live specification and verification surface:
 
@@ -107,6 +116,7 @@ Protective Computing includes a live specification and verification surface:
 ## What this organization builds
 
 This organization houses work related to:
+
 - Protective Computing theory and doctrine
 - reference implementations
 - privacy-first and local-first systems
@@ -138,6 +148,7 @@ Overton, K. (2026). *The Overton Framework: Protective Computing in Conditions o
 Contributions are welcome when they strengthen protective outcomes.
 
 Priority areas:
+
 - verification hardening
 - degraded-state interaction design
 - coercion resistance
