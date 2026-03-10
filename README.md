@@ -7,31 +7,31 @@
 
 > **Protective Computing — systems design under human vulnerability.**
 
-CrisisCore-Systems is the engineering surface for **Protective Computing**: software designed to remain safe, usable, and ethically constrained under crisis, illness, coercion, displacement, degraded infrastructure, and institutional instability.
+CrisisCore-Systems is the engineering and publication surface for **Protective Computing**: software designed to remain safe, usable, and ethically constrained under crisis, illness, coercion, displacement, degraded infrastructure, and institutional instability.
 
-We build and publish:
-- canonical papers,
-- engineering doctrine,
-- operational guidance,
-- audit tooling,
-- and reference implementations.
+We publish:
+- canonical papers
+- engineering doctrine
+- normative specifications
+- evaluation tooling
+- and reference implementations
 
 ---
 
 ## Start here
 
-- **Website:** https://protective-computing.github.io/
+- **Site:** https://protective-computing.github.io/
 - **Zenodo community:** https://zenodo.org/communities/protective-computing
 - **Reference implementation:** https://github.com/CrisisCore-Systems/pain-tracker
 - **ORCID:** https://orcid.org/0009-0003-3251-8621
 
 ---
 
-## Published releases
+## Published release stack
 
 ### Canonical Paper
 **Protective Computing Canon v1.0**  
-Structural map of the discipline across theory, engineering practice, evaluation, and reference implementation.  
+The structural overview of the discipline across theory, engineering practice, evaluation, and reference implementation.  
 **DOI:** https://doi.org/10.5281/zenodo.18887610
 
 ### Foundation
@@ -41,30 +41,23 @@ Formal theory and architectural framing for software built under conditions of h
 
 ### Practice
 **Protective Computing Field Guide v0.1**  
-Operational companion for engineers implementing protective systems in real environments.  
+Operational guidance for engineers implementing protective systems in real environments.  
 **DOI:** https://doi.org/10.5281/zenodo.18782339
+
+### Specification
+**Protective Computing Specification v1.0**  
+Normative requirements with verification procedures for design review, implementation, and audit.  
+**Spec:** https://protective-computing.github.io/docs/spec/v1.0.html
 
 ### Tooling
 **Protective Legitimacy Score (PLS) v1.0-rc1**  
 Operational rubric for evaluating whether systems remain structurally protective under degraded conditions.  
 **DOI:** https://doi.org/10.5281/zenodo.18783432
 
-### Reference implementation
+### Reference Implementation
 **PainTracker**  
 A privacy-first, local-first, offline-capable chronic pain documentation system used as a live Protective Computing reference implementation.  
 **Repo:** https://github.com/CrisisCore-Systems/pain-tracker
-
----
-
-## Specification surface
-
-Protective Computing is not just a paper trail. It includes a live specification and audit surface:
-
-- **Specification v1.0:** https://protective-computing.github.io/docs/spec/v1.0.html
-- **Reference implementation mapping:** https://protective-computing.github.io/docs/reference-implementation/paintracker-mapping.html
-- **Audit evidence:** https://github.com/protective-computing/protective-computing.github.io/blob/main/AUDIT_EVIDENCE.md
-- **Compliance matrix:** https://github.com/protective-computing/protective-computing.github.io/blob/main/COMPLIANCE_AUDIT_MATRIX.md
-- **Independent review checklist:** https://github.com/protective-computing/protective-computing.github.io/blob/main/INDEPENDENT_REVIEW_CHECKLIST.md
 
 ---
 
@@ -79,20 +72,48 @@ Protective Computing rejects the Stability Assumption and replaces it with enfor
 - **Degraded Functionality**
 - **Essential Utility**
 
-These are treated as engineering constraints, not branding language.
+These are engineering constraints, not branding language.
+
+---
+
+## Why this exists
+
+Most software assumes persistent connectivity, cognitive surplus, environmental stability, and institutional trust.
+
+Protective Computing starts from the opposite condition:
+- crisis
+- illness
+- pain
+- coercion
+- displacement
+- infrastructure instability
+
+When those conditions are present, software failure is not a small inconvenience. It can become disclosure, lockout, pressure, or irreversible harm.
+
+---
+
+## Evidence and audit surface
+
+Protective Computing includes a live specification and verification surface:
+
+- **Specification v1.0:** https://protective-computing.github.io/docs/spec/v1.0.html
+- **Reference implementation mapping:** https://protective-computing.github.io/docs/reference-implementation/paintracker-mapping.html
+- **Audit evidence index:** https://github.com/protective-computing/protective-computing.github.io/blob/main/AUDIT_EVIDENCE.md
+- **Compliance audit matrix:** https://github.com/protective-computing/protective-computing.github.io/blob/main/COMPLIANCE_AUDIT_MATRIX.md
+- **Independent review checklist:** https://github.com/protective-computing/protective-computing.github.io/blob/main/INDEPENDENT_REVIEW_CHECKLIST.md
 
 ---
 
 ## What this organization builds
 
-This GitHub organization houses work related to:
-
+This organization houses work related to:
 - Protective Computing theory and doctrine
 - reference implementations
-- privacy-first and local-first system design
+- privacy-first and local-first systems
 - audit and verification tooling
 - crisis-aware software architecture
-- degraded-state UX and coercion-resistant patterns
+- degraded-state UX
+- coercion-resistant patterns
 
 ---
 
@@ -129,12 +150,10 @@ Priority areas:
 
 ---
 
-## Identity
+## Licensing
 
-- **Organization:** CrisisCore-Systems
-- **Discipline:** Protective Computing
-- **Surface:** research, engineering, audits, reference systems
-- **License posture:** docs vary by artifact; code is project-dependent
+- **Docs:** CC-BY-4.0 where stated
+- **Code:** project-dependent
 
 ---
 
